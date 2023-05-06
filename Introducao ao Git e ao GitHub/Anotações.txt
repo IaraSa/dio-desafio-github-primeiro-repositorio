@@ -1,0 +1,2 @@
+Link para download de Git: https://github.com/IaraSa/dio-desafio-github-primeiro-repositorio.git
+O Git Bash é um terminal estendido pata otimizar o uso do Git.
