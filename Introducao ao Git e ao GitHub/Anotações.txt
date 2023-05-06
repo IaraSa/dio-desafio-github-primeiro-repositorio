@@ -1,2 +1,12 @@
+Olá, me chamo Iara. Muito prazer!
+Esta pasta foi criada com o propósito de mostrar o progesso do meu aprendizado. Espero aprender e contribuir com o aprendizado de muitas pessoas.
+Até mais galera ...
+
+
+Alguns LINKS importantes!
+
 Link para download de Git: https://github.com/IaraSa/dio-desafio-github-primeiro-repositorio.git
 O Git Bash é um terminal estendido pata otimizar o uso do Git.
+
+Link para simulação de textos: https://br.lipsum.com/
+"Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos."
